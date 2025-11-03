@@ -1,0 +1,201 @@
+{
+  "classe": "DA",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 260,
+          "name": "Modules"
+        },
+        {
+          "count": 200,
+          "name": "Matières"
+        },
+        {
+          "count": 90,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 460,
+          "name": "Exercices"
+        },
+        {
+          "count": 230,
+          "name": "Corrections"
+        },
+        {
+          "count": 130,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 180,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 110,
+          "name": "Corrections"
+        },
+        {
+          "count": 75,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Apprentissage profond",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Analyse de données",
+      "type": "cours",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Statistiques avancées",
+      "type": "cours",
+      "annee": 2023,
+      "liked": true
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "Prévision des ventes",
+        "auteur": "Equipe DS",
+        "domaine": "Machine Learning",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Détection d’anomalies",
+        "auteur": "DS Groupe B",
+        "domaine": "Data Science",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "DataCleaner",
+        "auteur": "Collectif DS",
+        "domaine": "Data Processing",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "PredictX",
+        "auteur": "DS Devs",
+        "domaine": "Prédiction",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "Machine Learning",
+        "auteur": "M. Kouadio",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Big Data",
+        "auteur": "Mme Zongo",
+        "annee": 2025,
+        "type": "cours",
+        "liked": false
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TP - Pandas avancé",
+        "auteur": "M. Kouadio",
+        "annee": 2024,
+        "type": "tp",
+        "liked": true
+      },
+      {
+        "title": "TD - Statistiques appliquées",
+        "auteur": "Mme Zongo",
+        "annee": 2025,
+        "type": "td",
+        "liked": false
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2025 - Machine Learning",
+        "auteur": "Département DS",
+        "annee": 2025,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2024 - Data Mining",
+        "auteur": "Département DS",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      }
+    ],
+    "livres": [
+      {
+        "title": "Hands-On ML",
+        "auteur": "Aurélien Géron",
+        "annee": 2019,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Python for Data Analysis",
+        "auteur": "Wes McKinney",
+        "annee": 2017,
+        "type": "livre",
+        "liked": false
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Pandas de A à Z",
+        "auteur": "Equipe DS",
+        "domaine": "Data",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Régression linéaire",
+        "auteur": "DS Lab",
+        "domaine": "ML",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}

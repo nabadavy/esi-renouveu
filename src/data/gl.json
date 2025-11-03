@@ -1,0 +1,393 @@
+{
+  "classe": "GL",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 280,
+          "name": "Modules"
+        },
+        {
+          "count": 190,
+          "name": "Matières"
+        },
+        {
+          "count": 70,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 550,
+          "name": "Exercices"
+        },
+        {
+          "count": 280,
+          "name": "Corrections"
+        },
+        {
+          "count": 110,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 220,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 160,
+          "name": "Corrections"
+        },
+        {
+          "count": 85,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Conception logicielle agile",
+      "type": "cours",
+      "annee": 2025,
+      "liked": false
+    },
+    {
+      "title": "Développement web avec React",
+      "type": "livre",
+      "annee": 2024,
+      "liked": true
+    },
+    {
+      "title": "Tests unitaires en Java",
+      "type": "cours",
+      "annee": 2023,
+      "liked": false
+    },
+    {
+      "title": "Gestion de projets Scrum",
+      "type": "cours",
+      "annee": 2022,
+      "liked": true
+    },
+    {
+      "title": "Architecture microservices",
+      "type": "cours",
+      "annee": 2025,
+      "liked": false
+    },
+    {
+      "title": "DevOps avec Docker et Kubernetes",
+      "type": "livre",
+      "annee": 2024,
+      "liked": true
+    },
+    {
+      "title": "Bases de données NoSQL",
+      "type": "cours",
+      "annee": 2023,
+      "liked": false
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "Plateforme de gestion de projets",
+        "auteur": "Equipe GL",
+        "domaine": "Gestion de projets",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Application de suivi de bugs",
+        "auteur": "Soro A.",
+        "domaine": "Développement logiciel",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Système de versionning avancé",
+        "auteur": "Kone B.",
+        "domaine": "Contrôle de version",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Outil de CI/CD automatisé",
+        "auteur": "Diaby C.",
+        "domaine": "DevOps",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Framework de test unitaire",
+        "auteur": "Ouattara D.",
+        "domaine": "Testing",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "OpenGL Editor",
+        "auteur": "Collectif GL",
+        "domaine": "Éditeur de code",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Agile Board Tool",
+        "auteur": "Traore E.",
+        "domaine": "Gestion agile",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Code Review Platform",
+        "auteur": "Koffi F.",
+        "domaine": "Review de code",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Deployment Automation Script",
+        "auteur": "Yao G.",
+        "domaine": "Automatisation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Software Architecture Analyzer",
+        "auteur": "N'Guessan H.",
+        "domaine": "Analyse d'architecture",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "Fondements du génie logiciel",
+        "auteur": "M. Dupont",
+        "annee": 2023,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Modélisation UML",
+        "auteur": "Mme Martin",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Développement Agile",
+        "auteur": "M. Lefevre",
+        "annee": 2022,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Conception de logiciels",
+        "auteur": "Mme Bernard",
+        "annee": 2025,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Ingénierie des exigences",
+        "auteur": "M. Petit",
+        "annee": 2023,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Architecture logicielle",
+        "auteur": "Mme Moreau",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TP - Modélisation UML pour un système de gestion",
+        "auteur": "M. Dupont",
+        "annee": 2023,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Exercice sur les patterns de design",
+        "auteur": "Mme Martin",
+        "annee": 2024,
+        "type": "td",
+        "liked": true
+      },
+      {
+        "title": "TP - Implémentation d'un microservice",
+        "auteur": "M. Lefevre",
+        "annee": 2022,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Analyse d'exigences",
+        "auteur": "Mme Bernard",
+        "annee": 2025,
+        "type": "td",
+        "liked": true
+      },
+      {
+        "title": "TP - Développement d'une application en Scrum",
+        "auteur": "M. Petit",
+        "annee": 2023,
+        "type": "tp",
+        "liked": false
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2023 - Génie logiciel",
+        "auteur": "Département GL",
+        "annee": 2023,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2024 - Conception logicielle",
+        "auteur": "Département GL",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2022 - Méthodes agiles",
+        "auteur": "Département GL",
+        "annee": 2022,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2025 - Architecture logicielle",
+        "auteur": "Département GL",
+        "annee": 2025,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2023 - Ingénierie des exigences",
+        "auteur": "Département GL",
+        "annee": 2023,
+        "type": "examen",
+        "liked": true
+      }
+    ],
+    "livres": [
+      {
+        "title": "Clean Code",
+        "auteur": "Robert C. Martin",
+        "annee": 2008,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Design Patterns",
+        "auteur": "Gang of Four",
+        "annee": 1994,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "The Pragmatic Programmer",
+        "auteur": "Andrew Hunt",
+        "annee": 1999,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Refactoring",
+        "auteur": "Martin Fowler",
+        "annee": 1999,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "Continuous Delivery",
+        "auteur": "Jez Humble",
+        "annee": 2010,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Domain-Driven Design",
+        "auteur": "Eric Evans",
+        "annee": 2003,
+        "type": "livre",
+        "liked": false
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Tutoriel Git pour débutants",
+        "auteur": "Equipe GL",
+        "domaine": "Contrôle de version",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Introduction à Docker",
+        "auteur": "Soro A.",
+        "domaine": "Conteneurisation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Kubernetes de base",
+        "auteur": "Kone B.",
+        "domaine": "Orchestration",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "CI/CD avec Jenkins",
+        "auteur": "Diaby C.",
+        "domaine": "Intégration continue",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Tests automatisés avec Jest",
+        "auteur": "Ouattara D.",
+        "domaine": "Testing",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Microservices avec Spring Boot",
+        "auteur": "N'Guessan E.",
+        "domaine": "Architecture",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}

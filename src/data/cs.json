@@ -1,0 +1,201 @@
+{
+  "classe": "CS",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 240,
+          "name": "Modules"
+        },
+        {
+          "count": 180,
+          "name": "Matières"
+        },
+        {
+          "count": 90,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 420,
+          "name": "Exercices"
+        },
+        {
+          "count": 210,
+          "name": "Corrections"
+        },
+        {
+          "count": 120,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 160,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 100,
+          "name": "Corrections"
+        },
+        {
+          "count": 70,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Infrastructure Cloud",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Virtualisation VMware",
+      "type": "cours",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Administration Linux",
+      "type": "cours",
+      "annee": 2023,
+      "liked": true
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "Serveur Web local",
+        "auteur": "Equipe IRS",
+        "domaine": "Réseaux",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "VPN académique",
+        "auteur": "IRS Groupe B",
+        "domaine": "Sécurité",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "DNS Manager",
+        "auteur": "Collectif IRS",
+        "domaine": "Infrastructure",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "NetScan Tool",
+        "auteur": "IRS DevOps",
+        "domaine": "Sécurité",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "Linux Administration",
+        "auteur": "M. Traore",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Cloud Computing",
+        "auteur": "Mme Yao",
+        "annee": 2025,
+        "type": "cours",
+        "liked": false
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TP - DHCP Server",
+        "auteur": "M. Traore",
+        "annee": 2024,
+        "type": "tp",
+        "liked": true
+      },
+      {
+        "title": "TD - IP Routing",
+        "auteur": "Mme Yao",
+        "annee": 2025,
+        "type": "td",
+        "liked": false
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2024 - Réseaux",
+        "auteur": "Département IRS",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2023 - Virtualisation",
+        "auteur": "Département IRS",
+        "annee": 2023,
+        "type": "examen",
+        "liked": true
+      }
+    ],
+    "livres": [
+      {
+        "title": "Mastering Linux",
+        "auteur": "Mark Sobell",
+        "annee": 2018,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Networking Basics",
+        "auteur": "James Kurose",
+        "annee": 2019,
+        "type": "livre",
+        "liked": false
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Installer un VPN",
+        "auteur": "Equipe IRS",
+        "domaine": "Sécurité",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Configurer Apache",
+        "auteur": "IRS Admin",
+        "domaine": "Serveur Web",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}

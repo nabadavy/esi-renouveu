@@ -1,0 +1,211 @@
+{
+  "classe": "RT",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 300,
+          "name": "Modules"
+        },
+        {
+          "count": 200,
+          "name": "Matières"
+        },
+        {
+          "count": 75,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 580,
+          "name": "Exercices"
+        },
+        {
+          "count": 290,
+          "name": "Corrections"
+        },
+        {
+          "count": 115,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 240,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 170,
+          "name": "Corrections"
+        },
+        {
+          "count": 90,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Réseaux 5G avancés",
+      "type": "cours",
+      "annee": 2025,
+      "liked": false
+    },
+    {
+      "title": "Sécurité des réseaux",
+      "type": "livre",
+      "annee": 2024,
+      "liked": true
+    },
+    {
+      "title": "Télécommunications optiques",
+      "type": "cours",
+      "annee": 2023,
+      "liked": false
+    },
+    {
+      "title": "Protocoles Internet",
+      "type": "cours",
+      "annee": 2022,
+      "liked": true
+    },
+    {
+      "title": "Réseaux sans fil",
+      "type": "cours",
+      "annee": 2025,
+      "liked": false
+    },
+    {
+      "title": "Cryptographie appliquée",
+      "type": "livre",
+      "annee": 2024,
+      "liked": true
+    },
+    {
+      "title": "IoT et réseaux",
+      "type": "cours",
+      "annee": 2023,
+      "liked": false
+    }
+  ],
+  "library": [
+    {
+      "title": "Computer Networking: A Top-Down Approach",
+      "auteur": "James Kurose",
+      "annee": 2020,
+      "type": "livre",
+      "liked": false
+    },
+    {
+      "title": "TCP/IP Illustrated",
+      "auteur": "Kevin Fall",
+      "annee": 2011,
+      "type": "livre",
+      "liked": true
+    },
+    {
+      "title": "Wireless Communications and Networks",
+      "auteur": "William Stallings",
+      "annee": 2004,
+      "type": "livre",
+      "liked": false
+    },
+    {
+      "title": "Data and Computer Communications",
+      "auteur": "William Stallings",
+      "annee": 2013,
+      "type": "livre",
+      "liked": true
+    },
+    {
+      "title": "Network Security Essentials",
+      "auteur": "William Stallings",
+      "annee": 2016,
+      "type": "livre",
+      "liked": false
+    },
+    {
+      "title": "Cryptography and Network Security",
+      "auteur": "William Stallings",
+      "annee": 2016,
+      "type": "livre",
+      "liked": false
+    },
+    {
+      "title": "Wireless Communications",
+      "auteur": "Andrea Goldsmith",
+      "annee": 2005,
+      "type": "livre",
+      "liked": true
+    },
+    {
+      "title": "Cloud Computing: Concepts",
+      "auteur": "Thomas Erl",
+      "annee": 2013,
+      "type": "livre",
+      "liked": false
+    },
+    {
+      "title": "5G NR: The Next Generation Wireless Access Technology",
+      "auteur": "Erik Dahlman",
+      "annee": 2018,
+      "type": "livre",
+      "liked": true
+    }
+  ],
+  "tutos": [
+    {
+      "name": "Wireshark pour l'analyse réseau",
+      "auteur": "Equipe RT",
+      "domaine": "Analyse",
+      "url": "C:\\Users\\user\\Videos\\USB\\sankara\\Sankara_Part2Vol3.avi",
+      "poster": "/src/assets/posters/wireshark.jpg"
+    },
+    {
+      "name": "Configuration Cisco IOS",
+      "auteur": "Soro A.",
+      "domaine": "Réseaux",
+      "url": "C:\\Users\\user\\Videos\\USB\\sankara\\Sankara_Part2Vol3.avi",
+      "poster": "/src/assets/posters/cisco.jpg"
+    },
+    {
+      "name": "OpenVPN setup",
+      "auteur": "Kone B.",
+      "domaine": "Sécurité",
+      "url": "C:\\Users\\user\\Videos\\USB\\sankara\\Sankara_Part2Vol3.avi",
+      "poster": "/src/assets/posters/openvpn.jpg"
+    },
+    {
+      "name": "5G fundamentals",
+      "auteur": "Diaby C.",
+      "domaine": "Télécoms",
+      "url": "C:\\Users\\user\\Videos\\USB\\sankara\\Sankara_Part2Vol3.avi",
+      "poster": "/src/assets/posters/5g.jpg"
+    },
+    {
+      "name": "AWS Cloudformation",
+      "auteur": "Ouattara D.",
+      "domaine": "Cloud",
+      "url": "C:\\Users\\user\\Videos\\USB\\sankara\\Sankara_Part2Vol3.avi",
+      "poster": "/src/assets/posters/aws.jpg"
+    }
+  ]
+}

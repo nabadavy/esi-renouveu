@@ -1,0 +1,227 @@
+{
+  "classe": "TC1",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 200,
+          "name": "Modules"
+        },
+        {
+          "count": 150,
+          "name": "Matières"
+        },
+        {
+          "count": 60,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 400,
+          "name": "Exercices"
+        },
+        {
+          "count": 200,
+          "name": "Corrections"
+        },
+        {
+          "count": 100,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 180,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 120,
+          "name": "Corrections"
+        },
+        {
+          "count": 60,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Introduction à l’informatique",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Mathématiques pour ingénieurs",
+      "type": "cours",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Culture numérique",
+      "type": "livre",
+      "annee": 2023,
+      "liked": false
+    },
+    {
+      "title": "Programmation C",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Logique et algorithmique",
+      "type": "cours",
+      "annee": 2024,
+      "liked": true
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "Gestion de bibliothèque",
+        "auteur": "TC1 Groupe A",
+        "domaine": "Programmation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Calculatrice console",
+        "auteur": "TC1 Groupe B",
+        "domaine": "C",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Gestion de stock Excel",
+        "auteur": "TC1 Groupe C",
+        "domaine": "Bureautique",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "Mini ChatBot",
+        "auteur": "Equipe TC1",
+        "domaine": "IA",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Formulaire Web HTML5",
+        "auteur": "TC1 WebDev",
+        "domaine": "Frontend",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "Algorithmique de base",
+        "auteur": "M. Traoré",
+        "annee": 2024,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Programmation en C",
+        "auteur": "Mme Koffi",
+        "annee": 2025,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Architecture d’ordinateur",
+        "auteur": "M. Zongo",
+        "annee": 2023,
+        "type": "cours",
+        "liked": false
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TP - Boucles et conditions",
+        "auteur": "M. Traoré",
+        "annee": 2024,
+        "type": "tp",
+        "liked": true
+      },
+      {
+        "title": "TD - Structures en C",
+        "auteur": "Mme Koffi",
+        "annee": 2025,
+        "type": "td",
+        "liked": false
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2024 - Algorithmique",
+        "auteur": "Département TC1",
+        "annee": 2024,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2023 - Programmation C",
+        "auteur": "Département TC1",
+        "annee": 2023,
+        "type": "examen",
+        "liked": false
+      }
+    ],
+    "livres": [
+      {
+        "title": "C Programming Absolute Beginner",
+        "auteur": "Greg Perry",
+        "annee": 2017,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "Learn Python the Hard Way",
+        "auteur": "Zed Shaw",
+        "annee": 2015,
+        "type": "livre",
+        "liked": true
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Apprendre HTML",
+        "auteur": "TC1 WebDev",
+        "domaine": "Web",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Découverte Linux",
+        "auteur": "Equipe TC1",
+        "domaine": "Système",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}

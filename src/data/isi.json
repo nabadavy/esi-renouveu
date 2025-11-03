@@ -1,0 +1,475 @@
+{
+  "classe": "ISI",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 320,
+          "name": "Modules"
+        },
+        {
+          "count": 210,
+          "name": "Matières"
+        },
+        {
+          "count": 80,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 620,
+          "name": "Exercices"
+        },
+        {
+          "count": 300,
+          "name": "Corrections"
+        },
+        {
+          "count": 120,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 250,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 180,
+          "name": "Corrections"
+        },
+        {
+          "count": 95,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Programmation C++ avancée",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Développement Mobile avec Kotlin",
+      "type": "livre",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Systèmes d'exploitation UNIX",
+      "type": "cours",
+      "annee": 2023,
+      "liked": true
+    },
+    {
+      "title": "Algorithmique et structures de données",
+      "type": "cours",
+      "annee": 2022,
+      "liked": false
+    },
+    {
+      "title": "Analyse de données avec Python",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Machine Learning approfondi",
+      "type": "livre",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Réseaux neuronaux convolutionnels",
+      "type": "cours",
+      "annee": 2023,
+      "liked": true
+    },
+    {
+      "title": "Big Data avec Hadoop",
+      "type": "cours",
+      "annee": 2022,
+      "liked": false
+    },
+    {
+      "title": "Intelligence artificielle éthique",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "E-Santé 4.0",
+        "auteur": "Ouattara Mariam",
+        "domaine": "Intelligence Artificielle",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "MaMoyenne",
+        "auteur": "Kouadio Armel",
+        "domaine": "Développement Mobile",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "MicraV Admin",
+        "auteur": "Sawadogo H.",
+        "domaine": "Web",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "AI Chatbot",
+        "auteur": "Traore I.",
+        "domaine": "IA",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Virtual Reality Simulator",
+        "auteur": "Koffi J.",
+        "domaine": "VR/AR",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Blockchain Tracker",
+        "auteur": "Yao K.",
+        "domaine": "Blockchain",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "MicraVision",
+        "auteur": "Équipe ISI Dev",
+        "domaine": "Éducation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "AgriNova",
+        "auteur": "Traoré M.",
+        "domaine": "Agritech",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "E-Santé Open API",
+        "auteur": "Collectif ISI 3A",
+        "domaine": "Santé publique",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "OpenAI Wrapper",
+        "auteur": "N'Guessan L.",
+        "domaine": "IA API",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Quantum Simulator",
+        "auteur": "Diaby M.",
+        "domaine": "Quantum Computing",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "IoT Dashboard",
+        "auteur": "Soro N.",
+        "domaine": "IoT",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "Introduction à l'IA",
+        "auteur": "M. Smith",
+        "annee": 2023,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Machine Learning de base",
+        "auteur": "Mme Johnson",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Systèmes intelligents",
+        "auteur": "M. Brown",
+        "annee": 2022,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Deep Learning",
+        "auteur": "Mme Davis",
+        "annee": 2025,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Vision par ordinateur",
+        "auteur": "M. Wilson",
+        "annee": 2023,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Traitement du langage naturel",
+        "auteur": "Mme Moore",
+        "annee": 2024,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Robotique avancée",
+        "auteur": "M. Taylor",
+        "annee": 2022,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Big Data Analytics",
+        "auteur": "Mme Anderson",
+        "annee": 2025,
+        "type": "cours",
+        "liked": true
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TP - Implémentation d'un réseau neuronal",
+        "auteur": "M. Smith",
+        "annee": 2023,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Exercice sur les algorithmes d'apprentissage",
+        "auteur": "Mme Johnson",
+        "annee": 2024,
+        "type": "td",
+        "liked": true
+      },
+      {
+        "title": "TP - Simulation de systèmes intelligents",
+        "auteur": "M. Brown",
+        "annee": 2022,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Problèmes de deep learning",
+        "auteur": "Mme Davis",
+        "annee": 2025,
+        "type": "td",
+        "liked": true
+      },
+      {
+        "title": "TP - Traitement d'images",
+        "auteur": "M. Wilson",
+        "annee": 2023,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Analyse de texte NLP",
+        "auteur": "Mme Moore",
+        "annee": 2024,
+        "type": "td",
+        "liked": true
+      },
+      {
+        "title": "TP - Programmation de robots",
+        "auteur": "M. Taylor",
+        "annee": 2022,
+        "type": "tp",
+        "liked": false
+      },
+      {
+        "title": "TD - Analyse de données massives",
+        "auteur": "Mme Anderson",
+        "annee": 2025,
+        "type": "td",
+        "liked": true
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2023 - Introduction à l'IA",
+        "auteur": "Département ISI",
+        "annee": 2023,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2024 - Machine Learning",
+        "auteur": "Département ISI",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2022 - Systèmes intelligents",
+        "auteur": "Département ISI",
+        "annee": 2022,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2025 - Deep Learning",
+        "auteur": "Département ISI",
+        "annee": 2025,
+        "type": "examen",
+        "liked": false
+      },
+      {
+        "title": "Examen 2023 - Vision par ordinateur",
+        "auteur": "Département ISI",
+        "annee": 2023,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2024 - NLP",
+        "auteur": "Département ISI",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      }
+    ],
+    "livres": [
+      {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "auteur": "Stuart Russell",
+        "annee": 2020,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Deep Learning",
+        "auteur": "Ian Goodfellow",
+        "annee": 2016,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "Pattern Recognition and Machine Learning",
+        "auteur": "Christopher Bishop",
+        "annee": 2006,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Hands-On Machine Learning with Scikit-Learn",
+        "auteur": "Aurélien Géron",
+        "annee": 2019,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "Reinforcement Learning: An Introduction",
+        "auteur": "Richard S. Sutton",
+        "annee": 2018,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "Computer Vision: Algorithms and Applications",
+        "auteur": "Richard Szeliski",
+        "annee": 2010,
+        "type": "livre",
+        "liked": false
+      },
+      {
+        "title": "Natural Language Processing with Python",
+        "auteur": "Steven Bird",
+        "annee": 2009,
+        "type": "livre",
+        "liked": true
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Introduction à Python pour l'IA",
+        "auteur": "Equipe ISI",
+        "domaine": "Programmation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "TensorFlow de base",
+        "auteur": "Soro A.",
+        "domaine": "Machine Learning",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Pytorch avancé",
+        "auteur": "Kone B.",
+        "domaine": "Deep Learning",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "OpenCV pour la vision",
+        "auteur": "Diaby C.",
+        "domaine": "Vision par ordinateur",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "NLTK pour NLP",
+        "auteur": "Ouattara D.",
+        "domaine": "Traitement du langage",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "ROS pour robotique",
+        "auteur": "N'Guessan E.",
+        "domaine": "Robotique",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Spark pour Big Data",
+        "auteur": "Traore F.",
+        "domaine": "Big Data",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}

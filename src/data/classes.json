@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Informatique & Systèmes Intelligents",
+    "code": "ISI",
+    "description": "Filière axée sur l'IA, les systèmes intelligents et le développement logiciel avancé."
+  },
+  {
+    "name": "Réseaux & Télécoms",
+    "code": "RT",
+    "description": "Filière spécialisée dans les réseaux, les télécommunications et la sécurité informatique."
+  },
+  {
+    "name": "Génie Logiciel",
+    "code": "GL",
+    "description": "Filière centrée sur l'ingénierie logicielle, le développement d'applications et la gestion de projets IT."
+  },
+  {
+    "name": "Data Science",
+    "code": "DS",
+    "description": "Filière dédiée à l'analyse de données, au machine learning et à la big data."
+  },
+  {
+    "name": "Cyber Sécurité",
+    "code": "CS",
+    "description": "Filière focalisée sur la sécurité informatique, la cryptographie et la protection des systèmes."
+  }
+]

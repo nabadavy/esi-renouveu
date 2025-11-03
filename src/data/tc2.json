@@ -1,0 +1,227 @@
+{
+  "classe": "TC2",
+  "repertoires": [
+    {
+      "header": {
+        "name": "Cours",
+        "icon": "BookIcon"
+      },
+      "contents": [
+        {
+          "count": 230,
+          "name": "Modules"
+        },
+        {
+          "count": 160,
+          "name": "Matières"
+        },
+        {
+          "count": 70,
+          "name": "Enseignants"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "TD & TP",
+        "icon": "TDIcon"
+      },
+      "contents": [
+        {
+          "count": 450,
+          "name": "Exercices"
+        },
+        {
+          "count": 220,
+          "name": "Corrections"
+        },
+        {
+          "count": 120,
+          "name": "Travaux Pratiques"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Examens",
+        "icon": "FolderIcon"
+      },
+      "contents": [
+        {
+          "count": 200,
+          "name": "Sujets de devoir"
+        },
+        {
+          "count": 130,
+          "name": "Corrections"
+        },
+        {
+          "count": 70,
+          "name": "Livres de référence"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Programmation orientée objet",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Systèmes numériques",
+      "type": "cours",
+      "annee": 2024,
+      "liked": false
+    },
+    {
+      "title": "Bases de données",
+      "type": "cours",
+      "annee": 2023,
+      "liked": true
+    },
+    {
+      "title": "Maths appliquées II",
+      "type": "cours",
+      "annee": 2025,
+      "liked": true
+    },
+    {
+      "title": "Projet C++",
+      "type": "cours",
+      "annee": 2024,
+      "liked": false
+    }
+  ],
+  "projets": {
+    "tutores": [
+      {
+        "name": "Mini serveur HTTP",
+        "auteur": "TC2 Groupe A",
+        "domaine": "Réseaux",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Gestion d’école",
+        "auteur": "TC2 Groupe B",
+        "domaine": "SGBD",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "Analyse de notes Excel",
+        "auteur": "TC2 Groupe C",
+        "domaine": "Bureautique",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ],
+    "opensource": [
+      {
+        "name": "Script Batch automate",
+        "auteur": "Equipe TC2",
+        "domaine": "Automatisation",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "App calcul scientifique",
+        "auteur": "TC2 Devs",
+        "domaine": "Mathématiques",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  },
+  "bibliotheque": {
+    "cours": [
+      {
+        "title": "POO avec Java",
+        "auteur": "M. Diallo",
+        "annee": 2024,
+        "type": "cours",
+        "liked": false
+      },
+      {
+        "title": "Bases de données MySQL",
+        "auteur": "Mme Yao",
+        "annee": 2025,
+        "type": "cours",
+        "liked": true
+      },
+      {
+        "title": "Architecture d’ordinateurs",
+        "auteur": "M. Konaté",
+        "annee": 2023,
+        "type": "cours",
+        "liked": true
+      }
+    ],
+    "tdtp": [
+      {
+        "title": "TD - Java classes et objets",
+        "auteur": "M. Diallo",
+        "annee": 2024,
+        "type": "td",
+        "liked": false
+      },
+      {
+        "title": "TP - Base de données",
+        "auteur": "Mme Yao",
+        "annee": 2025,
+        "type": "tp",
+        "liked": true
+      }
+    ],
+    "examens": [
+      {
+        "title": "Examen 2025 - Java",
+        "auteur": "Département TC2",
+        "annee": 2025,
+        "type": "examen",
+        "liked": true
+      },
+      {
+        "title": "Examen 2024 - SGBD",
+        "auteur": "Département TC2",
+        "annee": 2024,
+        "type": "examen",
+        "liked": false
+      }
+    ],
+    "livres": [
+      {
+        "title": "Java pour débutants",
+        "auteur": "Herbert Schildt",
+        "annee": 2018,
+        "type": "livre",
+        "liked": true
+      },
+      {
+        "title": "SQL for Dummies",
+        "auteur": "Allen Taylor",
+        "annee": 2017,
+        "type": "livre",
+        "liked": false
+      }
+    ],
+    "tutos": [
+      {
+        "name": "Introduction à JavaFX",
+        "auteur": "Equipe TC2",
+        "domaine": "Java",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      },
+      {
+        "name": "SQL pratique",
+        "auteur": "TC2 BDD",
+        "domaine": "Base de données",
+        "url": "/videos/demo.mp4",
+        "poster": "/posters/renouveau.png"
+      }
+    ]
+  }
+}
