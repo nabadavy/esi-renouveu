@@ -10,7 +10,7 @@ import { AppProvider, useAppContext } from "./context/AppContext";
 import { Theme } from "@radix-ui/themes";
 import { Login } from "./pages/Login";
 import { Register } from "./pages/Register";
-import { Footer } from "./components/Footer";
+import { Footer } from "./components/footer";
 import "@radix-ui/themes/styles.css";
 
 const navLinks = [
